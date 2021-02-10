@@ -1,2 +1,3 @@
 # HelloWorld
-Git practice
+Git practice. Adding some words.
+My name is Simon.
