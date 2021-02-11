@@ -4,3 +4,5 @@
 
 Git practice. Adding some words.
 My name is Simon...
+
+I don't read much books, but one of my favorite was "Astrophysics" by Neil deGrase Tyson.
