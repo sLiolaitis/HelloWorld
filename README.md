@@ -7,3 +7,5 @@ My name is Simon...
 
 I don't read much books, but one of my favorite was "Astrophysics" by Neil deGrase Tyson.
 Then i like to read about Java..
+Actually I do read a lot of books :D
+
